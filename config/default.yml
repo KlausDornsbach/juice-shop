@@ -67,7 +67,7 @@ challenges:
   showSolvedNotifications: true
   showHints: true
   overwriteUrlForProductTamperingChallenge: 'https://owasp.slack.com'
-  safetyOverride: false
+  safetyOverride: true
 hackingInstructor:
   isEnabled: true
   avatarImage: juicyBot.png
